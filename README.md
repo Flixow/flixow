@@ -1,5 +1,9 @@
 # 💫 About Me:
-Currently, I hold the position of CTO at Chimera Prime, where I am focused on developing and implementing innovative strategies for the company's growth. As part of my ongoing professional development, I'm also expanding my knowledge and skills in various areas, including OpenAI API, advanced NestJS techniques, AWS, and low-code tools.<br><br>In addition to my work, I enjoy spending my free time pursuing a few different hobbies. One of my favorite hobbies is flying FPV drones, which provides me with an exhilarating and immersive experience. I also enjoy wakeboarding on the lake, which is a great way to stay active and enjoy the outdoors. Lastly, I like to spend time in my garden, where I grow different plants and experiment with new gardening techniques.
+I previously held the role of Chief Technology Officer at Chimera Prime, where my focus was on developing and implementing innovative growth strategies for the company. Currently, I am exploring new professional opportunities and expanding my knowledge in areas such as OpenAI API, advanced NestJS techniques, AWS, and low-code tools to stay at the forefront of technological advancements.
+
+Outside of my professional endeavors, I engage in various hobbies during my free time. Flying FPV drones provides me with an exhilarating and immersive experience, while wakeboarding on the lake allows me to stay active and enjoy the outdoors. Additionally, I dedicate time to my garden, experimenting with different plants and gardening techniques.
+
+With my experience as a former CTO, I am now seeking fresh challenges and opportunities to contribute my skills and expertise in the dynamic landscape of technology.
 
 
 ## 🌐 Socials:
@@ -15,10 +19,5 @@ Currently, I hold the position of CTO at Chimera Prime, where I am focused on de
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=flixow&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
